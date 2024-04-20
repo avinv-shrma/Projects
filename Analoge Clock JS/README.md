@@ -1,4 +1,5 @@
-Live Sync Clock using HTML CSS and JavaScript
+Live Sync Clock using HTML CSS and JavaScript.
+
 Active link:
 
   ## https://animatedklock.netlify.app/  
