@@ -1,0 +1,16 @@
+Search for 
+
+/* ==================== EMAILJS SETUP - ONLY 3 LINES TO CHANGE ==================== */
+- Get your Public Key from EmailJS dashboard
+- edit the part below with your own Public key
+emailjs.init("YOUR_PUBLIC_KEY"); 
+
+
+
+Search for 
+// 2. & 3. Replace these two IDs with your own Service ID & Template ID
+
+- Get your Service ID and Template ID from EmailJS Dashboard
+- Edit the part below to with your own Service and Template ID
+emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', params)
+
